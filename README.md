@@ -1,4 +1,4 @@
-CurryKitten FPV Quad Simulator
+# CurryKitten FPV Simulator
 
 Hello, this is the very basic README for my FPV quad simulator.  This sin't an open source project, but GitHub is being used for defect tracking, binary distribution and wiki/documentation.
 
