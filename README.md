@@ -2,7 +2,7 @@
 
 ![](Wiki/Smash.jpg)
 
-Welcome to my FPV simulator project.  One important thing to point out is that this isn't an open source project, but GitHub is being used for defect tracking, binary distribution and wiki hosting.
+Welcome to my FPV simulator project.  One important thing to point out is that this isn't an open source project, but GitHub is being used for defect tracking, binary distribution and wiki hosting.  The Sim is also available on Steam here https://store.steampowered.com/app/1331330/CurryKitten_FPV_Simulator/
 
 The  wiki pages are super helpful, and should be your first port of call for any issues.  They should be able to walk you through hooking up a controller and how to do everything you need to get going.  Check it out here https://github.com/CurryKitten/CurryKitten-Sim/wiki
 
